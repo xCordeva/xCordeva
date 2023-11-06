@@ -1,6 +1,7 @@
-### Hey 👋, I'm Ahmed, a Front End Developer :)
+### Hey <img align="center" width="25px"  src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f64b.png" alt="raising-hand-emoji" />, I'm Ahmed, a Front End Developer :)
 
 <img align="center" width="250px"  src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" alt="xcordeva" />
+
 
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to contribute on open source projects.
