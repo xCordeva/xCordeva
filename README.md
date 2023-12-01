@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to contribute on open source projects.
 - 💬 Ask me about JS/React
-- 📫 How to reach me: **ahmad98abdelaal@gmail.com** 
+- 📫 How to reach me: **ahmad.abdelaall.abas@gmail.com** 
 
 </br>
 </br>
