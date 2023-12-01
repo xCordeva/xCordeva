@@ -1,6 +1,6 @@
 <h1 align='center'> Hey <img align="center" width="25px"  src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f64b.png" alt="raising-hand-emoji" />, I am Ahmed, a Front End Developer :)</h1>
 </br></br>
-<img align="right" width="450px"  src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" alt="xcordeva" />
+<img align="right" width="400px"  src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" alt="xcordeva" />
 
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to contribute on open source projects.
