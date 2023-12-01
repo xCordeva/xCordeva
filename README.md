@@ -1,15 +1,15 @@
-### Hey <img align="center" width="25px"  src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f64b.png" alt="raising-hand-emoji" />, I am Ahmed, a Front End Developer :)
-
-<img align="center" width="250px"  src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" alt="xcordeva" />
-
+<h1 align='center'> Hey <img align="center" width="25px"  src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f64b.png" alt="raising-hand-emoji" />, I am Ahmed, a Front End Developer :)</h1>
+</br></br>
+<img align="right" width="450px"  src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" alt="xcordeva" />
 
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to contribute on open source projects.
 - 💬 Ask me about JS/React
-- 📫 How to reach me: **ahmad98abdelaal@gmail.com**
-  
+- 📫 How to reach me: **ahmad98abdelaal@gmail.com** 
 
-<h1 align="left"></h1>
+</br>
+</br>
+<h1 align="center"></h1>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
