@@ -1,4 +1,4 @@
-<h1 align='center'> Hey <img align="center" width="26px"  src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f64b.png" alt="raising-hand-emoji" />, I am Ahmed, a Front End Developer :)</h1>
+<h1 align='center'> Hey <img align="center" width="26px"  src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f64b.png" alt="raising-hand-emoji" />, I am Ahmed, a Frontend Developer :)</h1>
 </br></br>
 <img align="right" width="400px"  src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" alt="xcordeva" />
 
