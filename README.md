@@ -2,9 +2,9 @@
 </br></br>
 <img align="right" width="400px"  src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" alt="xcordeva" />
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Data Structures & Algorithms
 - 👯 I’m looking to contribute on open source projects.
-- 💬 Ask me about JS/React
+- 💬 Ask me about JS/React/Next
 - 📫 How to reach me: **ahmad.abdelaall.abas@gmail.com** 
 
 </br>
