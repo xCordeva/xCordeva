@@ -2,17 +2,17 @@
 </br></br>
 <img align="right" width="400px"  src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" alt="xcordeva" />
 
-### 🌟 Fun Facts
-- 🌱 Obsessed with DSA skills lately  
-- 👯 Always happy to join meaningful open source projects  
-- 💬 Love chatting about JS, React, or Next.js — hit me up!  
-- 📫 Reach me at: [ahmad.abdelaall.abas@gmail.com](mailto:ahmad.abdelaall.abas@gmail.com)
+### 🤓 Fun Facts
+- 🧠 Obsessed with DSA skills lately
+- 🤝 Always happy to join meaningful open source projects
+- 📩 Reach me at: [ahmad.abdelaall.abas@gmail.com](mailto:ahmad.abdelaall.abas@gmail.com)
 
 
 </br>
 </br>
 <h1 align="center"></h1>
-<h3 align="left">Languages and Tools:</h3>
+
+### 🧰 Languages and Tools:
 
 <p style="text-align: center;">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
@@ -38,5 +38,7 @@
 </p>
 
 <h1 align="left"></h1>
+
+### 💻 Top Languages:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xcordeva&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
