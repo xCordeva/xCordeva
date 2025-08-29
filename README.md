@@ -2,9 +2,6 @@
 </br></br>
 <img align="right" width="400px"  src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" alt="xcordeva" />
 
-### 🤓 Fun Facts
-- 🧠 Obsessed with DSA skills lately
-- 🤝 Always happy to join meaningful open source projects
 - 📩 Reach me at: [ahmad.abdelaall.abas@gmail.com](mailto:ahmad.abdelaall.abas@gmail.com)
 
 
